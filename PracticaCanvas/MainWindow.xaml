@@ -8,10 +8,7 @@
         Title="Practica Canvas" Height="450" Width="800">
 	<Canvas>
 		<Button Canvas.Left="0">Botonazo Number One</Button>		<Button Canvas.Right="0" >Botonazo Number Two</Button>
-		
 		<Button Canvas.Bottom="0" >Botonazo Number Three</Button>
-		
 		<Button Canvas.Right="0" Canvas.Bottom="0" >Botonazo Number Four</Button>
-		
 	</Canvas>
 </Window>
